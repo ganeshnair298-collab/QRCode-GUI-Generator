@@ -4,7 +4,7 @@ A Modern, Sleek, Minimal Quick Response Code generator with GUI for simplicity. 
 # Screenshot
 ![Screenshot](images/screenshot.png)
 
-# Installion
+# Installation
 For linux (deb based)
 ```bash
 sudo apt install git -y
@@ -46,7 +46,7 @@ gcc qrcode_gui.c -o qrcode_gui $(python3-config --embed --cflags --ldflags)
 # Reference
 This project was created for testing and developing purpose only. It help me for understanding logic and gui understanding.
 
-# Feautures
+# Features
 + Generate QRCode at real time
 + Saving QRCode
 + Customise QRcode
