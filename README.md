@@ -59,4 +59,4 @@ This project was created for testing and developing purpose only. It help me for
 + Pyzbar for reading QRCode
 
 # Caution
-Use Python Version 3.12 or below because of library compability issue
+Use Python Version 3.12 or below because of library compatibility issue
