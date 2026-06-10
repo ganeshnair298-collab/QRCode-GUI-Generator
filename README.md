@@ -12,3 +12,6 @@ This app is for testing and developing purpose only. This app make my skill in f
 + Read QRCode and display content
 + Modern, Simple UI for simplicity
 
+# Third-Party Library Used
++ CustomTkinter (Modern UI)
++ Pyzbar for reading QRCode
