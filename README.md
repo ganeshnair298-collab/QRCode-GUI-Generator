@@ -54,3 +54,6 @@ This app is for testing and developing purpose only. This app make my skill in f
 # Third-Party Library Used
 + CustomTkinter (Modern UI)
 + Pyzbar for reading QRCode
+
+# Caution
+Use Python Version 3.12 or below because of library compability issue
