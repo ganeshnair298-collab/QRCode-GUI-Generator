@@ -7,7 +7,7 @@ For linux (deb based)
 sudo apt install git -y
 git clone https://github.com/ganeshnair298-collab/QRCode-GUI-Generator.git
 cd QRCode-GUI-Generator
-py -m pip install -r requirement.txt
+pip install -r requirement.txt
 python3 qrcode_gui.py
 ```
 For Windows (Powershell)
