@@ -36,7 +36,7 @@ dir
 cd QRCode-GUI-Generator
 pip3 install cython
 # or
-sudo apt intall binutils gcc python3-dev -y
+sudo apt install binutils gcc python3-dev -y
 cp -r qrcode_gui.py qrcode_gui.pyx
 cython --embed -3 qrcode_gui.pyx -o qrcode_gui.c
 gcc qrcode_gui.c -o qrcode_gui $(python3-config --embed --cflags --ldflags)
