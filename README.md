@@ -2,7 +2,7 @@
 A Modern, Sleek, Minimal Quick Response Code generator with GUI for simplicity. This is entirely made by python, The Simple, Adaptive UI is make generate task complete
 
 # Screenshot
-![Screenshot](images/Screenshot 2026-06-10 104346.png)
+![Screenshot](images/screenshot.png)
 
 # Installion
 For linux (deb based)
