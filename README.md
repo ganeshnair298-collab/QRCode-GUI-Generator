@@ -41,7 +41,7 @@ gcc qrcode_gui.c -o qrcode_gui $(python3-config --embed --cflags --ldflags)
 ```
 
 # Reference
-This app is for testing and developing purpose only. This app make my skill in frontend and backend development better
+This project was created for testing and developing purpose only. It help me for understanding logic and gui understanding.
 
 # Feautures
 + Generate QRCode at real time
